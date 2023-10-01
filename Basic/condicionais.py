@@ -1,6 +1,3 @@
-
-
-
 placa = int(input("Digite o primeiro número da sua plca do carro: "))
 
 
